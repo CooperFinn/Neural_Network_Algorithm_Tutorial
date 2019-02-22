@@ -1,2 +1,2 @@
-# Python-For-Beginner
-This notebook will teach you the basics of the Python programming language.
+# Open these files in google Colaboratory
+
